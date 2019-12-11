@@ -3,6 +3,11 @@
 .DS_Store
 .git
 code/.*
+code/..
+code/.ipynb_checkpoints
+data/..
 data/.*
 graphs/.*
+graphs/..
 appendix_lists_of_relevant_words/.*
+appendix_lists_of_relevant_words/..
