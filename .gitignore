@@ -4,7 +4,7 @@
 .git
 code/.*
 code/..
-code/.ipynb_checkpoints
+*.ipynb_checkpoints
 data/..
 data/.*
 graphs/.*
